@@ -8,7 +8,7 @@
  
 </head>
 <body>
-    <h1> Main file>
+    <h1> Main file<h1>
 <?php
 
 echo"hello world";
