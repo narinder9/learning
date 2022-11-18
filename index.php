@@ -10,6 +10,7 @@
 <body>
     <h1>Dev Branch<h1>
     <h2>It is learning pull request<h2>
+        <p>It is a static content on github pages
 <?php
 
 echo"hello world";
